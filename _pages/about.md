@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Huazhong University of Science and Technology, supervised by Prof.[Gaoyang Liu]([https://github.com/academicpages/academicpages.github.io](https://gyliu1991.github.io/)). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University.
+I am a PhD student at the Huazhong University of Science and Technology, supervised by Prof.[Gaoyang Liu](https://gyliu1991.github.io). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
